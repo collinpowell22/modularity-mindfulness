@@ -67,7 +67,13 @@ nav li {
   padding: 0 .5rem;
 }
 
-main {
+nav a {
+
+  color: #3783a3;
+  text-decoration: rgba(55. 131, 163, .4);
+}
+
+main img{
 
   margin-bottom: 1.5rem;
 }
