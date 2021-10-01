@@ -13,19 +13,7 @@ html {
 }
 
 [lang="ja"] {
+
   font-family: "Noto Sans JP", sans-serif;
   font-style: normal;
-}
-
-body {
-  margin: 0;
-}
-
-img {
-  display: block;
-  width: 100%;
-}
-
-link {
-
 }
